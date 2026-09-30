@@ -7,7 +7,7 @@
 
 
 This repository contains the official PyTorch implementation of **K-MF**. 
-![architecture](imgs/teaser.pdf)
+![architecture](imgs/teaser.png)
 
 
 

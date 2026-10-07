@@ -2,7 +2,7 @@
   <h1> Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models </h1>
   <p>Jiawei Fan, Sifeng Wang, Yuqing Hou, and Anbang Yao</p>
 
-  [![arXiv](https://img.shields.io/badge/arXiv-2610.00864-b31b1b.svg)]()
+  [![arXiv](https://img.shields.io/badge/arXiv-2610.00864-b31b1b.svg)](https://arxiv.org/abs/2610.00864)
 </div>
 
 

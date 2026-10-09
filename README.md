@@ -13,6 +13,6 @@ This repository contains the official PyTorch implementation of **K-MF**.
 
 ### 📢 News
 * **[Coming Soon]** Code is preparing for release.  **Watch/Star** this repository to stay updated!
-* **[Oct 2026]** 🎉 Our paper is avaiable at Arxiv.
+* **[Oct 2026]** 🎉 [Our paper is now available on arXiv](https://arxiv.org/abs/2610.00864) 
 
 
